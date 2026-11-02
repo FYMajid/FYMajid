@@ -66,10 +66,10 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FYMajid&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats.jstrieb.pl/card?username=FYMajid&theme=dark" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FYMajid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+<img src="https://github-stats.jstrieb.pl/langs?username=FYMajid&theme=dark" alt="Top Languages" width="50%" />
 </p>
