@@ -67,5 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FYMajid&show_icons=true&theme=radical)
 </p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FYMajid&show_icons=true&theme=radical)
+
