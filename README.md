@@ -19,7 +19,6 @@
 <h3 align="left">🛠️ Tech Stack & Tools</h3>
 
 <div align="left">
-  <!-- Languages & Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" title="HTML5"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" title="CSS3"/>
@@ -34,7 +33,6 @@
   
   <br><br>
   
-  <!-- Backend & Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" title="Node.js"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express" title="Express.js"/>
@@ -69,7 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FYMajid&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /> -->
 </p>
 
 <p align="center">
