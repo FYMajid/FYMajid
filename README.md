@@ -66,7 +66,7 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-stats.jstrieb.pl/card?username=FYMajid&theme=dark" alt="GitHub Stats" width="48%" />
+  ![Stats Overview](https://raw.githubusercontent.com/FYMajid/github-stats-transparent/output/generated/overview.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
