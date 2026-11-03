@@ -69,10 +69,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYMajid&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-<a href='https://github.com/FYMajid/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/FYMajid/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/FYMajid/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
