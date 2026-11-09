@@ -12,7 +12,6 @@
 - 🔭 I’m currently working as a **Fullstack Developer** based in **Jakarta, Indonesia**.
 - 🌱 Open to collaborating on modern web development projects using **React, Next.js, Node.js, Laravel, and Go**.
 - 💬 Ask me about **Fullstack Web Development, APIs, and System Architecture**.
-- 📫 How to reach me: Connect with me on **LinkedIn**.
 
 ---
 
